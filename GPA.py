@@ -53,5 +53,5 @@ while not student=="done": # runs the while loop
             
 
 
-        ni=ni+1
+        ni=ni+1 #This adds the index so i don't greet the first person constantly
     
